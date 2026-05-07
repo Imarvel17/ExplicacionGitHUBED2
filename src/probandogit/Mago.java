@@ -12,6 +12,7 @@ public class Mago extends Personaje {
     
     public Mago(String nombreIn, int fuerzaIn, int edadIn) {
         super(nombreIn, fuerzaIn, edadIn);
+        //comentario
     }
     
 }

@@ -1,0 +1,33 @@
+[33mcommit 48c1d45e40babca2798bcf137b7430a2cb4802f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Isabel Martin <isabel.marvel@iesjulianmarias.es>
+Date:   Mon Apr 27 18:28:45 2026 +0200
+
+    Clase hija mago
+
+ src/probandogit/Mago.java | 17 [32m+++++++++++++++++[m
+ 1 file changed, 17 insertions(+)
+
+[33mcommit c89c72d2346c6586f05f181736225676dc96e051[m
+Author: Isabel Martin <isabel.marvel@iesjulianmarias.es>
+Date:   Mon Apr 27 18:26:18 2026 +0200
+
+    Constructor y getters
+
+ src/probandogit/Personaje.java | 38 [32m++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 38 insertions(+)
+
+[33mcommit be96d39a50117ae2a6109c47c50f2b08a3fbe80c[m
+Author: Isabel Martin <isabel.marvel@iesjulianmarias.es>
+Date:   Mon Apr 27 18:22:47 2026 +0200
+
+    revision 1
+
+ build.xml                            |   73 [32m++[m
+ manifest.mf                          |    3 [32m+[m
+ nbproject/build-impl.xml             | 1771 [32m++++++++++++++++++++++++++++++++++[m
+ nbproject/genfiles.properties        |    8 [32m+[m
+ nbproject/private/private.properties |    2 [32m+[m
+ nbproject/project.properties         |   95 [32m++[m
+ nbproject/project.xml                |   15 [32m+[m
+ src/probandogit/ProbandoGit.java     |   20 [32m+[m
+ 8 files changed, 1987 insertions(+)
